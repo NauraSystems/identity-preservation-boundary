@@ -72,11 +72,13 @@ A transition that violates identity invariants.
 
 The Identity Preservation Boundary evaluates candidate state transitions using the following logical function:
 
+```
 admissible = Boundary.validate(
     current_state,
     candidate_state,
     identity_profile
 )
+```
 
 Where:
 
@@ -99,6 +101,7 @@ Transition is rejected.
 The Identity Preservation Boundary operates as an independent constraint layer positioned between state evolution and state acceptance.
 
 Conceptual architecture:
+
 Execution Layer
       ↓
 State Evolution Layer
