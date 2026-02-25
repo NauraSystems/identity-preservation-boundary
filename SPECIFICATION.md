@@ -102,6 +102,7 @@ Implementation mechanisms remain proprietary intellectual property of Naura Syst
 Patent protection is pending.
 
 This specification establishes architectural disclosure without granting implementation rights.
+This document is a conceptual and architectural disclosure and intentionally omits enabling implementation details.
 
 Unauthorized implementation is prohibited.
 
