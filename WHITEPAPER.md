@@ -196,6 +196,7 @@ This repository serves as the canonical specification source.
 Copyright © 2026 Naura Systems, Inc. All rights reserved.
 
 This document and associated materials describe proprietary infrastructure technology.
+This document is a conceptual and architectural disclosure and intentionally omits enabling implementation details.
 
 No license is granted for implementation, modification, or commercial use without explicit written permission from Naura Systems, Inc.
 
