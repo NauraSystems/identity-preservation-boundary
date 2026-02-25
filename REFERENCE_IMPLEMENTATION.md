@@ -131,7 +131,9 @@ class IdentityPreservationBoundary:
         # Placeholder reference logic
         # Actual invariant validation methods are proprietary
 
-        return compute_similarity_metric(state, profile)
+     return compute_similarity_metric(state, profile)
+
+
 
 
 ⸻
