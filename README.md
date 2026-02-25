@@ -1,6 +1,6 @@
 # Identity Preservation Boundary
+Formal Constraint Infrastructure for Persistent Intelligent Systems
 
-Formal constraint layer for preserving identity continuity in persistent AI systems.
 
 Developed by Naura Systems, Inc.
 
