@@ -1,17 +1,21 @@
-# Identity Preservation Boundary
-Formal Constraint Infrastructure for Persistent Intelligent Systems
+# Identity Preservation Boundary  
+Formal Constraint Infrastructure for Persistent Intelligent Systems  
 
-Developed by Naura Systems, Inc.
-Invented by C. Douglas Barr, Jr.
+**Naura Systems Protocol Specification**
 
-Official Website: https://naurasystems.ai
-Canonical Repository: https://github.com/NauraSystems/identity-preservation-boundary
+Maintained by Naura Systems, Inc.  
+Inventor: C. Douglas Barr, Jr.  
 
-Initial Public Specification: 2026
-Patent Pending
-All Rights Reserved
+Canonical Specification: https://naurasystems.ai  
+Canonical Repository: https://github.com/NauraSystems/identity-preservation-boundary  
+
+Specification Status: Initial Public Release (2026)  
+Intellectual Property Status: Patent Pending  
+Copyright © 2026 Naura Systems, Inc. All rights reserved.
 
 ---
+
+This repository contains the authoritative public specification of the Identity Preservation Boundary protocol.
 
 ## Overview
 
@@ -161,7 +165,8 @@ Patent protection pending.
 Naura Systems, Inc.  
 Scottsdale, Arizona, USA  
 
-General inquiries: contact@naurasystems.ai  
-Security and protocol inquiries: founder@naurasystems.ai  
+Protocol and licensing inquiries: contact@naurasystems.ai  
+Security and architecture inquiries: founder@naurasystems.ai  
 
-Website: https://naurasystems.ai
+Canonical Specification: https://naurasystems.ai  
+Canonical Repository: https://github.com/NauraSystems
