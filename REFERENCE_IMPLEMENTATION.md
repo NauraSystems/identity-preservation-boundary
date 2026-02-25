@@ -108,13 +108,6 @@ This example illustrates interface behavior only.
 
 Actual invariant validation methods remain proprietary.
 
----
-
-## Reference Python Example (Non-Proprietary)
-
-This example illustrates interface behavior only.  
-Actual invariant validation methods remain proprietary.
-
 ```python
 class IdentityPreservationBoundary:
 
