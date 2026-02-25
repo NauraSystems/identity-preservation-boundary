@@ -30,6 +30,7 @@ This document does not disclose proprietary implementation methods.
 Reference Interface
 
 The Identity Preservation Boundary exposes the following logical interface:
+
 ...
 admissible = Boundary.validate(
 current_state,
@@ -37,6 +38,7 @@ candidate_state,
 identity_profile
 )
 ...
+
 Inputs
 
 current_state
@@ -124,6 +126,7 @@ def identity_similarity(self, state, profile):
 Reference Integration Position
 
 The Identity Preservation Boundary integrates as follows:
+
 ...
 Execution Layer
 ↓
@@ -133,6 +136,7 @@ Identity Preservation Boundary
 ↓
 State Acceptance Layer
 ...
+
 ---
 
 Compliance Criteria
