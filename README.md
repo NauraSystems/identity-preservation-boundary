@@ -10,7 +10,7 @@ Developed by Naura Systems, Inc.
 
 The Identity Preservation Boundary (IPB) is a formal constraint layer that evaluates whether a proposed system state transition preserves the identity of a persistent intelligent process.
 
-Persistent AI systems continuously update their internal state through training, adaptation, and interaction. Without a formal constraint layer, these updates can cause identity drift, substitution, or loss of continuity.
+Persistent intelligent systems continuously update their internal state through training, adaptation, and interaction. Without a formal constraint layer, these updates can cause identity drift, substitution, or loss of continuity.
 
 The IPB defines admissible evolution as state transitions that preserve identity invariants while allowing learning, adaptation, and capability improvement.
 
