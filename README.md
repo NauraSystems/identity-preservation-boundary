@@ -158,13 +158,14 @@ Patent protection pending.
 
 ## Contact
 
-Naura Systems, Inc.
-Scottsdale, Arizona, USA
+Naura Systems, Inc.  
+Scottsdale, Arizona, USA  
 
-Website: https://naurasystems.ai
-Email: contact@naurasystems.ai
+Website: https://naurasystems.ai  
+Email: contact@naurasystems.ai  
 
-Founder:
-C. Douglas Barr, Jr.
+Founder and Principal Architect:  
+C. Douglas Barr, Jr.  
 founder@naurasystems.ai
+
 ---
