@@ -13,9 +13,21 @@ Specification Status: Initial Public Release (2026)
 Intellectual Property Status: Patent Pending  
 Copyright © 2026 Naura Systems, Inc. All rights reserved.
 
----
-
 This repository contains the authoritative public specification of the Identity Preservation Boundary protocol.
+
+## Repository Structure
+
+This repository is organized as a formal protocol specification:
+
+- SPECIFICATION.md — formal protocol definition  
+- REFERENCE_IMPLEMENTATION.md — reference interface definition  
+- ARCHITECTURE.md — protocol integration model  
+- WHITEPAPER.md — theoretical and conceptual foundation  
+- PATENT_NOTICE.md — intellectual property and protection status  
+
+The reference implementation defines the canonical behavioral contract required for compliant integrations.
+
+---
 
 ## Overview
 
