@@ -108,6 +108,13 @@ This example illustrates interface behavior only.
 
 Actual invariant validation methods remain proprietary.
 
+---
+
+## Reference Python Example (Non-Proprietary)
+
+This example illustrates interface behavior only.  
+Actual invariant validation methods remain proprietary.
+
 ```python
 class IdentityPreservationBoundary:
 
@@ -125,84 +132,75 @@ class IdentityPreservationBoundary:
 
         return False
 
-
     def identity_similarity(self, state, profile):
 
         # Placeholder reference logic
         # Actual invariant validation methods are proprietary
 
-     return compute_similarity_metric(state, profile)
+        return compute_similarity_metric(state, profile)
+```
 
+---
 
+## Behavioral Requirements
 
+An implementation is IPB-compliant if it satisfies the following conditions.
 
-⸻
-
-Behavioral Requirements
-
-An implementation is IPB-compliant if it satisfies the following conditions:
-
-Determinism
+### Determinism
 
 For identical inputs, the boundary MUST produce identical outputs.
 
-⸻
-
-Identity Continuity Enforcement
+### Identity Continuity Enforcement
 
 Transitions that violate identity invariants MUST be rejected.
 
 Transitions that preserve identity invariants MUST be accepted.
 
-⸻
-
-Isolation
+### Isolation
 
 Boundary evaluation MUST operate independently of execution mechanisms.
 
-⸻
-
-Non-Mutation
+### Non-Mutation
 
 Boundary evaluation MUST NOT modify input states.
 
-⸻
+---
 
-Compliance Criteria
+## Compliance Criteria
 
 An implementation is IPB-compliant if it:
-	•	Implements the validate interface
-	•	Enforces identity invariants
-	•	Produces deterministic admissibility decisions
-	•	Preserves identity continuity guarantees
 
-⸻
+- Implements the validate interface  
+- Enforces identity invariants  
+- Produces deterministic admissibility decisions  
+- Preserves identity continuity guarantees  
 
-Non-Disclosure Notice
+---
+
+## Non-Disclosure Notice
 
 This reference defines interface behavior only.
 
-Invariant representation methods, validation algorithms, and identity modeling techniques remain proprietary intellectual property of Naura Systems, Inc.
+Invariant representation methods, validation algorithms, and identity modeling techniques remain proprietary.
 
-⸻
+---
 
-Canonical Specification
+## Canonical Specification
 
 https://naurasystems.ai
 
-⸻
+---
 
-Canonical Repository
+## Canonical Repository
 
 https://github.com/NauraSystems/identity-preservation-boundary
 
-⸻
+---
 
-Contact
+## Contact
 
-Naura Systems, Inc.
-Scottsdale, Arizona, USA
+Naura Systems, Inc.  
+Scottsdale, Arizona, USA  
 
-Protocol and licensing inquiries: contact@naurasystems.ai
-
+Protocol and licensing inquiries: contact@naurasystems.ai  
 Security and architectural inquiries: founder@naurasystems.ai
