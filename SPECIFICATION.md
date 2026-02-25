@@ -2,14 +2,21 @@ Identity Preservation Boundary (IPB) Specification
 
 Formal Constraint Protocol for Persistent Intelligent Systems
 
-Protocol: Identity Preservation Boundary
-Abbreviation: IPB
-Version: v0.1.0
-Status: Foundational Public Specification
-Release Date: 2026
-Maintained by: Naura Systems, Inc.
-Canonical Specification: https://naurasystems.ai
-Canonical Repository: https://github.com/NauraSystems/identity-preservation-boundary
+**Protocol:** Identity Preservation Boundary
+
+**Abbreviation:** IPB
+
+**Version:** v0.1.0
+
+**Status:** Foundational Public Specification
+
+**Release Date:** 2026
+
+**Maintained by:** Naura Systems, Inc.
+
+**Canonical Specification:** https://naurasystems.ai
+
+**Canonical Repository:** https://github.com/NauraSystems/identity-preservation-boundary
 
 Copyright © 2026 Naura Systems, Inc. All rights reserved.
 Patent Pending.
