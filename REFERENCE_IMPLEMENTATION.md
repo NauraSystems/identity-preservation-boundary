@@ -29,7 +29,7 @@ This document does not disclose proprietary implementation methods.
 ## Reference Integration Position
 
 The Identity Preservation Boundary integrates as follows:
-...
+
 Execution Layer
 ↓
 State Evolution Layer
@@ -37,7 +37,7 @@ State Evolution Layer
 Identity Preservation Boundary
 ↓
 State Acceptance Layer
-...
+
 The boundary evaluates admissibility independently of execution mechanisms.
 
 The boundary MUST NOT modify system state.
@@ -47,13 +47,13 @@ The boundary MUST NOT modify system state.
 ## Reference Interface
 
 The Identity Preservation Boundary exposes the following logical interface:
-...
+
 admissible = Boundary.validate(
 current_state,
 candidate_state,
 identity_profile
 )
-...
+
 ---
 
 ## Input Definitions
